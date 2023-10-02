@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sobre</title>
+</head>
+<body>
+    <h1>SOBRE <p></p>
+    Bloodborne e a melhor obra de todos os tempos</h1>
+    <p>Conteúdo da página Sobre.</p>
+    <a href="/">Voltar para a página inicial</a>
+</body>
+</html>
